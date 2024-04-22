@@ -1,3 +1,5 @@
+
+
 ![Integrando seu projeto React com APIs](thumbnail.png)
 
 # AluraBooks
@@ -16,6 +18,7 @@ $ npm install
 $ npm run start-auth
 ```
 ## 🛠️ Como se registrar?
+Teste Commit para sfdsfdsfsdfds
 
 Você pode fazer isso efetuando uma requisição post para:
 
